@@ -108,7 +108,9 @@ Hello! I'm Md Shawon Ahmed, a passionate Software Quality Assurance (SQA) Engine
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawon-sqa&theme=algolia" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawon-sqa&custom_title=Shawon's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Shawon's GitHub Activity Graph" />
+</p>
 ---
 
 ### 🌟 Quote
