@@ -1,7 +1,7 @@
 ![logo](https://github.com/obaidsajjad-SQA-Engineer/obaidsajjad-SQA-Engineer/blob/main/sqa-manual-automatic-functional-and-regression-testing.png)
 <h1 align="center">Hi 👋, I'm Md Shawon Ahmed</h1>
 <h3 align="center">🚀 Passionate Software Quality Assurance (SQA) Engineer from Bangladesh</h3>
-<h4 align="center">Manual & Automation Testing | API & Performance Testing | CI/CD Enthusiast</h4>
+<h4 align="center">Manual & Automation Testing | API & Performance Testing  </h4>
 
 ---
 <p align="center"> 
@@ -94,7 +94,7 @@ Hello! I'm Md Shawon Ahmed, a passionate Software Quality Assurance (SQA) Engine
 </table>
 
 ---
----
+
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -111,6 +111,7 @@ Hello! I'm Md Shawon Ahmed, a passionate Software Quality Assurance (SQA) Engine
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawon-sqa&custom_title=Shawon's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Shawon's GitHub Activity Graph" />
 </p>
+
 ---
 
 ### 🌟 Quote
